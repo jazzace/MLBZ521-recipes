@@ -12,7 +12,8 @@ download types:  The download type desired; the provided string is searched in t
     - "IMAC CA Scan USB Driver"
     - "TWAIN Scan Driver"
 OS version:  
-    - x11 (default)
+    - 12 (default)
+    - x11
     - 10_15
     - 10_14
     - 10_13
@@ -29,7 +30,7 @@ Tested both "macOS Print and Scan Driver Installer" and "ICA Scan USB Driver" to
         <key>DOWNLOAD_TYPE</key>
         <string>macOS Print and Scan Driver Installer</string>
         <key>OS_VERSION</key>
-        <string>x11</string>
+        <string>12</string>
         <key>NAME</key>
         <string>Xerox Print Drivers</string>
     </dict>
